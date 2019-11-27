@@ -10,5 +10,7 @@ public class Main {
     void test1(){
         System.out.println(123);
     }
-
+    void test3(){
+        System.out.println(123);
+    }
 }
